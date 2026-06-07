@@ -2,9 +2,9 @@
 
 # Kevin.AP
 
-### Backend & AI Engineer · Python · Cloud · LLMs
+### Data Engineer · Data Analyst · AI/ML Engineer
 
-*Building scalable systems, intelligent APIs, and data-driven products.*
+*Building scalable data pipelines, analytics platforms, and intelligent ML systems.*
 
 <br/>
 
@@ -36,30 +36,25 @@
 
 ## 👋 About Me
 
-I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud infrastructure, and AI-powered applications**. I love turning complex problems into clean, production-ready code.
+I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer** focused on building end-to-end data pipelines, cloud analytics platforms, and machine learning solutions.
 
-- 🔭 **Currently working on:** Scalable Python APIs, cloud data pipelines, Azure Databricks & Snowflake projects
-- 🛠️ **Tech stack:** Python · Django · FastAPI · React · AWS · Azure · Docker · PostgreSQL · MongoDB · Redis · Snowflake · Spark · DBT
-- 🌱 **Learning:** Advanced system design, vector databases, and production LLM workflows
-- 📝 **Content:** Sharing projects and learnings on [GitHub](https://github.com/Kevin20AP) and [LinkedIn](https://www.linkedin.com/in/kevin-ap11)
-- 💬 **Ask me about:** Python, REST APIs, cloud architecture, data engineering, prompt engineering, or career growth in tech
-- ⚡ **Fun fact:** I treat every repo like a commit tree — small, focused changes that compound into something powerful
+- 🔭 **Currently working on:** Azure Databricks pipelines, Snowflake warehousing, DBT transformations, and LLM-powered analytics
+- 🛠️ **Tech stack:** Python · PySpark · DBT · Snowflake · Azure · AWS · Apache Spark · SQL · LLMs
+- 🌱 **Learning:** Advanced system design, vector databases, and production ML workflows
+- 📝 **Content:** Sharing projects on [GitHub](https://github.com/Kevin20AP) and [LinkedIn](https://www.linkedin.com/in/kevin-ap11)
+- 💬 **Ask me about:** Data engineering, cloud pipelines, Snowflake, Spark, DBT, data analysis, or AI/ML
+- ⚡ **Fun fact:** I treat every pipeline like a commit tree — small, focused transformations that compound into powerful insights
 
 ---
 
 ## 🛠️ Skills
 
-### Backend
+### Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -68,15 +63,10 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### AI / ML
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -91,7 +81,7 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,aws,docker,postgres,mongodb,redis,js,html,css,git,linux,vscode&perline=8" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,postgres,mongodb,redis,git,linux,vscode&perline=8" alt="Skill icons"/>
 </p>
 
 ---
@@ -121,10 +111,12 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Spotify Azure Data Pipeline** | Built an end-to-end data engineering pipeline on Azure — ingested streaming data, transformed it in Databricks with PySpark, and loaded curated datasets into a data warehouse for analytics | Azure · Databricks · PySpark · Data Lake |
-| **Airbnb Analytics Platform** | Designed a full-stack analytics workflow using DBT and Snowflake — modeled raw booking data into staging and mart layers, with AWS handling ingestion and orchestration | DBT · Snowflake · AWS · SQL |
-| **Netflix Data Analysis** | Developed an end-to-end Netflix dataset pipeline with DBT — built dimensional models, performed data quality tests, and delivered business-ready insights on content trends and viewership | DBT · Snowflake · SQL · Analytics |
-| **IPL Cricket Analytics** | Engineered a large-scale IPL cricket data pipeline with Apache Spark — processed match, player, and ball-by-ball data for performance analytics and historical trend reporting | Apache Spark · Python · Azure |
+| [Spotify Azure Data Pipeline](https://github.com/Kevin20AP/data-engineering-projects/tree/main/spotify-azure-databricks) | End-to-end Spotify analytics pipeline on Azure with Databricks and PySpark | Azure · Databricks · PySpark |
+| [Airbnb Analytics Platform](https://github.com/Kevin20AP/data-engineering-projects/tree/main/airbnb-snowflake-dbt) | Airbnb booking analytics with DBT transformations and Snowflake warehousing | DBT · Snowflake · AWS |
+| [Netflix Data Analysis](https://github.com/Kevin20AP/data-engineering-projects/tree/main/netflix-dbt-snowflake) | Netflix content analytics with dimensional modeling and data quality tests | DBT · Snowflake · SQL |
+| [IPL Cricket Analytics](https://github.com/Kevin20AP/data-engineering-projects/tree/main/ipl-apache-spark) | IPL cricket data pipeline processing match and player stats at scale | Apache Spark · Python · Azure |
+
+> 📁 All data engineering projects: **[data-engineering-projects](https://github.com/Kevin20AP/data-engineering-projects)**
 
 ### Software & ML
 
