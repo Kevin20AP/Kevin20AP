@@ -38,8 +38,8 @@
 
 I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud infrastructure, and AI-powered applications**. I love turning complex problems into clean, production-ready code.
 
-- 🔭 **Currently working on:** Scalable Python APIs, cloud data pipelines, and LLM-integrated applications
-- 🛠️ **Tech stack:** Python · Django · FastAPI · React · AWS · Docker · PostgreSQL · MongoDB · Redis
+- 🔭 **Currently working on:** Scalable Python APIs, cloud data pipelines, Azure Databricks & Snowflake projects
+- 🛠️ **Tech stack:** Python · Django · FastAPI · React · AWS · Azure · Docker · PostgreSQL · MongoDB · Redis · Snowflake · Spark · DBT
 - 🌱 **Learning:** Advanced system design, vector databases, and production LLM workflows
 - 📝 **Content:** Sharing projects and learnings on [GitHub](https://github.com/Kevin20AP) and [LinkedIn](https://www.linkedin.com/in/kevin-ap11)
 - 💬 **Ask me about:** Python, REST APIs, cloud architecture, data engineering, prompt engineering, or career growth in tech
@@ -71,6 +71,12 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### AI / ML
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -118,6 +124,37 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 | [Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io) | Personal portfolio site | Jupyter · Web |
 | [Azure](https://github.com/Kevin20AP/Azure) | Cloud & data engineering projects | Azure · Python |
 | [tokyo-olympic-azure-data-engineering-project](https://github.com/Kevin20AP/tokyo-olympic-azure-data-engineering-project) | End-to-end Azure data engineering pipeline | Azure · Spark |
+
+---
+
+## 📺 Data Engineering Projects
+
+End-to-end data engineering projects I've built and documented — walkthroughs, pipelines, and cloud implementations.
+
+| Project | Platform | Watch |
+|---------|----------|-------|
+| **Spotify End-To-End Azure Data Engineering** | Azure · Databricks · Spark | [▶ YouTube](https://www.youtube.com/watch?v=vJM0wDrTRxI) |
+| **Airbnb End-To-End Data Engineering** | DBT · Snowflake · AWS | [▶ YouTube](https://www.youtube.com/watch?v=3SZSDKEZqoA) |
+| **Netflix Data Analysis with DBT** | DBT · Snowflake · End-to-End | [▶ YouTube](https://www.youtube.com/watch?v=zZVQluYDwYY) |
+| **IPL Data Analysis with Apache Spark** | Apache Spark · Data Engineering | [▶ YouTube](https://www.youtube.com/watch?v=0iNJPKheQqM) |
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=vJM0wDrTRxI">
+  <img src="https://img.youtube.com/vi/vJM0wDrTRxI/hqdefault.jpg" alt="Spotify Azure Data Engineering Project" width="45%"/>
+</a>
+<a href="https://www.youtube.com/watch?v=3SZSDKEZqoA">
+  <img src="https://img.youtube.com/vi/3SZSDKEZqoA/hqdefault.jpg" alt="Airbnb Snowflake Data Engineering Project" width="45%"/>
+</a>
+<br/><br/>
+<a href="https://www.youtube.com/watch?v=zZVQluYDwYY">
+  <img src="https://img.youtube.com/vi/zZVQluYDwYY/hqdefault.jpg" alt="Netflix DBT Snowflake Project" width="45%"/>
+</a>
+<a href="https://www.youtube.com/watch?v=0iNJPKheQqM">
+  <img src="https://img.youtube.com/vi/0iNJPKheQqM/hqdefault.jpg" alt="IPL Apache Spark Project" width="45%"/>
+</a>
+
+</div>
 
 ---
 
