@@ -117,6 +117,17 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 
 ## 🚀 Featured Projects
 
+### Data Engineering
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Spotify Azure Data Pipeline** | Built an end-to-end data engineering pipeline on Azure — ingested streaming data, transformed it in Databricks with PySpark, and loaded curated datasets into a data warehouse for analytics | Azure · Databricks · PySpark · Data Lake |
+| **Airbnb Analytics Platform** | Designed a full-stack analytics workflow using DBT and Snowflake — modeled raw booking data into staging and mart layers, with AWS handling ingestion and orchestration | DBT · Snowflake · AWS · SQL |
+| **Netflix Data Analysis** | Developed an end-to-end Netflix dataset pipeline with DBT — built dimensional models, performed data quality tests, and delivered business-ready insights on content trends and viewership | DBT · Snowflake · SQL · Analytics |
+| **IPL Cricket Analytics** | Engineered a large-scale IPL cricket data pipeline with Apache Spark — processed match, player, and ball-by-ball data for performance analytics and historical trend reporting | Apache Spark · Python · Azure |
+
+### Software & ML
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Python_Projects](https://github.com/Kevin20AP/Python_Projects) | Collection of Python applications and scripts | Python |
@@ -124,37 +135,6 @@ I'm **Kevin.AP** — a software engineer focused on **backend systems, cloud inf
 | [Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io) | Personal portfolio site | Jupyter · Web |
 | [Azure](https://github.com/Kevin20AP/Azure) | Cloud & data engineering projects | Azure · Python |
 | [tokyo-olympic-azure-data-engineering-project](https://github.com/Kevin20AP/tokyo-olympic-azure-data-engineering-project) | End-to-end Azure data engineering pipeline | Azure · Spark |
-
----
-
-## 📺 Data Engineering Projects
-
-End-to-end data engineering projects I've built and documented — walkthroughs, pipelines, and cloud implementations.
-
-| Project | Platform | Watch |
-|---------|----------|-------|
-| **Spotify End-To-End Azure Data Engineering** | Azure · Databricks · Spark | [▶ YouTube](https://www.youtube.com/watch?v=vJM0wDrTRxI) |
-| **Airbnb End-To-End Data Engineering** | DBT · Snowflake · AWS | [▶ YouTube](https://www.youtube.com/watch?v=3SZSDKEZqoA) |
-| **Netflix Data Analysis with DBT** | DBT · Snowflake · End-to-End | [▶ YouTube](https://www.youtube.com/watch?v=zZVQluYDwYY) |
-| **IPL Data Analysis with Apache Spark** | Apache Spark · Data Engineering | [▶ YouTube](https://www.youtube.com/watch?v=0iNJPKheQqM) |
-
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=vJM0wDrTRxI">
-  <img src="https://img.youtube.com/vi/vJM0wDrTRxI/hqdefault.jpg" alt="Spotify Azure Data Engineering Project" width="45%"/>
-</a>
-<a href="https://www.youtube.com/watch?v=3SZSDKEZqoA">
-  <img src="https://img.youtube.com/vi/3SZSDKEZqoA/hqdefault.jpg" alt="Airbnb Snowflake Data Engineering Project" width="45%"/>
-</a>
-<br/><br/>
-<a href="https://www.youtube.com/watch?v=zZVQluYDwYY">
-  <img src="https://img.youtube.com/vi/zZVQluYDwYY/hqdefault.jpg" alt="Netflix DBT Snowflake Project" width="45%"/>
-</a>
-<a href="https://www.youtube.com/watch?v=0iNJPKheQqM">
-  <img src="https://img.youtube.com/vi/0iNJPKheQqM/hqdefault.jpg" alt="IPL Apache Spark Project" width="45%"/>
-</a>
-
-</div>
 
 ---
 
