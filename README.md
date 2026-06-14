@@ -125,6 +125,7 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 | [RAG Hybrid Chatbot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/rag-hybrid-chatbot) | RAG chatbot with hybrid search (ChromaDB + BM25) and multi-turn conversation memory | LangChain · OpenAI · ChromaDB · BM25 |
 | [LangGraph Support Bot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/langgraph-support-bot) | Multi-agent support bot with intent routing and human escalation | LangGraph · LangChain · OpenAI |
 | [ReAct Agent](https://github.com/Kevin20AP/ai-ml-projects/tree/main/react-agent) | Tool-using agent with calculator, weather, and Wikipedia via ReAct loop | LangGraph · LangChain · OpenAI |
+| [HuggingFace Fine-Tuning](https://github.com/Kevin20AP/ai-ml-projects/tree/main/huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with before/after comparison | HuggingFace · PyTorch · GPT-2 |
 
 > 📁 All AI/ML projects: **[ai-ml-projects](https://github.com/Kevin20AP/ai-ml-projects)**
 
