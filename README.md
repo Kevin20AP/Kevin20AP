@@ -118,6 +118,14 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 
 > 📁 All data engineering projects: **[data-engineering-projects](https://github.com/Kevin20AP/data-engineering-projects)**
 
+### AI / ML
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [RAG Hybrid Chatbot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/rag-hybrid-chatbot) | RAG chatbot with hybrid search (ChromaDB + BM25) and multi-turn conversation memory | LangChain · OpenAI · ChromaDB · BM25 |
+
+> 📁 All AI/ML projects: **[ai-ml-projects](https://github.com/Kevin20AP/ai-ml-projects)**
+
 ### Software & ML
 
 | Project | Description | Stack |
