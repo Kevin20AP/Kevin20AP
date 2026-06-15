@@ -127,6 +127,7 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 | [ReAct Agent](https://github.com/Kevin20AP/ai-ml-projects/tree/main/react-agent) | Tool-using agent with calculator, weather, and Wikipedia via ReAct loop | LangGraph · LangChain · OpenAI |
 | [HuggingFace Fine-Tuning](https://github.com/Kevin20AP/ai-ml-projects/tree/main/huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with before/after comparison | HuggingFace · PyTorch · GPT-2 |
 | [Multi-Agent Research System](https://github.com/Kevin20AP/ai-ml-projects/tree/main/multi-agent-research-system) | Researcher, Writer, and Critic agents with automatic revision loop | LangGraph · LangChain · OpenAI |
+| [Voice AI Assistant](https://github.com/Kevin20AP/ai-ml-projects/tree/main/voice-assistant) | Hands-free assistant with Whisper speech-to-text and gTTS text-to-speech | Whisper · OpenAI · gTTS |
 
 > 📁 All AI/ML projects: **[ai-ml-projects](https://github.com/Kevin20AP/ai-ml-projects)**
 
