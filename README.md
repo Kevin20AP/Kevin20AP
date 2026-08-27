@@ -137,8 +137,8 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Python_Projects](https://github.com/Kevin20AP/Python_Projects) | Collection of Python applications and scripts | Python |
-| [Sensitive_Data_Detection](https://github.com/Kevin20AP/Sensitive_Data_Detection) | ML-based sensitive data detection pipeline | Python · Jupyter |
+| [Python_Projects](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Python_Projects) | Collection of Python applications and scripts | Python |
+| [Sensitive_Data_Detection](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Sensitive_Data_Detection) | ML-based sensitive data detection pipeline | Python · Jupyter |
 | [Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io) | Personal portfolio site | Jupyter · Web |
 | [Azure](https://github.com/Kevin20AP/Azure) | Cloud & data engineering projects | Azure · Python |
 
