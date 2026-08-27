@@ -130,17 +130,20 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 | [HuggingFace Fine-Tuning](https://github.com/Kevin20AP/ai-ml-projects/tree/main/huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with before/after comparison | HuggingFace · PyTorch · GPT-2 |
 | [Multi-Agent Research System](https://github.com/Kevin20AP/ai-ml-projects/tree/main/multi-agent-research-system) | Researcher, Writer, and Critic agents with automatic revision loop | LangGraph · LangChain · OpenAI |
 | [Voice AI Assistant](https://github.com/Kevin20AP/ai-ml-projects/tree/main/voice-assistant) | Hands-free assistant with Whisper speech-to-text and gTTS text-to-speech | Whisper · OpenAI · gTTS |
+| [Sensitive Data Detection](https://github.com/Kevin20AP/ai-ml-projects/tree/main/sensitive-data-detection) | ML system to detect sensitive data exposure in images using CNN and OCR | TensorFlow · Flask · Tesseract |
+| [Fake Job Prediction](https://github.com/Kevin20AP/ai-ml-projects/tree/main/fake-job-prediction) | Classify job postings as real or fake using NLP and machine learning | Python · Scikit-learn · Jupyter |
 
 > 📁 All AI/ML projects: **[ai-ml-projects](https://github.com/Kevin20AP/ai-ml-projects)**
 
-### Software & ML
+### Software Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Python_Projects](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Python_Projects) | Collection of Python applications and scripts | Python |
-| [Sensitive_Data_Detection](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Sensitive_Data_Detection) | ML-based sensitive data detection pipeline | Python · Jupyter |
-| [Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io) | Personal portfolio site | Jupyter · Web |
-| [Azure](https://github.com/Kevin20AP/Azure) | Cloud & data engineering projects | Azure · Python |
+| [Python Projects](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Python_Projects) | Python games — Snake, Turtle Crossing, and arcade projects | Python |
+| [Flask REST API](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/flask-rest-api) | REST API with Flask and SQLite | Python · Flask |
+| [Pong](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/pong) | Classic Pong game with Turtle graphics | Python |
+
+> 📁 All software projects: **[Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io)**
 
 ---
 
