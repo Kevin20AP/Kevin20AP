@@ -115,6 +115,8 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 | [Airbnb Analytics Platform](https://github.com/Kevin20AP/data-engineering-projects/tree/main/airbnb-snowflake-dbt) | Airbnb booking analytics with DBT transformations and Snowflake warehousing | DBT · Snowflake · AWS |
 | [Netflix Data Analysis](https://github.com/Kevin20AP/data-engineering-projects/tree/main/netflix-dbt-snowflake) | Netflix content analytics with dimensional modeling and data quality tests | DBT · Snowflake · SQL |
 | [IPL Cricket Analytics](https://github.com/Kevin20AP/data-engineering-projects/tree/main/ipl-apache-spark) | IPL cricket data pipeline processing match and player stats at scale | Apache Spark · Python · Azure |
+| [Tokyo Olympic Azure Pipeline](https://github.com/Kevin20AP/data-engineering-projects/tree/main/tokyo-olympic-azure-data-engineering-project) | Tokyo Olympics data engineering with PySpark transformations and medal analytics | Azure · PySpark · Jupyter |
+| [Azure Spotify Data Factory](https://github.com/Kevin20AP/data-engineering-projects/tree/main/azurespotifyproject) | Azure Data Factory incremental ingestion pipeline for Spotify data | Azure Data Factory · Data Lake · SQL |
 
 > 📁 All data engineering projects: **[data-engineering-projects](https://github.com/Kevin20AP/data-engineering-projects)**
 
@@ -139,7 +141,6 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 | [Sensitive_Data_Detection](https://github.com/Kevin20AP/Sensitive_Data_Detection) | ML-based sensitive data detection pipeline | Python · Jupyter |
 | [Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io) | Personal portfolio site | Jupyter · Web |
 | [Azure](https://github.com/Kevin20AP/Azure) | Cloud & data engineering projects | Azure · Python |
-| [tokyo-olympic-azure-data-engineering-project](https://github.com/Kevin20AP/tokyo-olympic-azure-data-engineering-project) | End-to-end Azure data engineering pipeline | Azure · Spark |
 
 ---
 
