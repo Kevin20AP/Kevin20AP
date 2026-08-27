@@ -2,9 +2,9 @@
 
 # Kevin.AP
 
-### Data Engineer · Data Analyst · AI/ML Engineer
+### Aspiring AI Engineer
 
-*Building scalable data pipelines, analytics platforms, and intelligent ML systems.*
+*Building intelligent systems with LLMs, RAG pipelines, multi-agent architectures, and production-ready AI applications.*
 
 <br/>
 
@@ -25,10 +25,10 @@
 
 <div align="center">
 
-<img src="Assets/output.gif" alt="Kevin.AP — Python Superhero Developer Poster" width="600"/>
+<img src="Assets/output.gif" alt="Kevin.AP — AI Engineer Portfolio" width="600"/>
 
 <br/>
-<em>Python-powered hero in Git City 🐍⚡</em>
+<em>Powering the future with Python, LLMs & intelligent agents 🤖⚡</em>
 
 </div>
 
@@ -36,52 +36,52 @@
 
 ## 👋 About Me
 
-I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer** focused on building end-to-end data pipelines, cloud analytics platforms, and machine learning solutions.
+I'm **Kevin.AP** — an **Aspiring AI Engineer** transitioning into artificial intelligence and machine learning. I combine a strong foundation in **data engineering** and **analytics** with hands-on experience building **LLM applications**, **RAG systems**, **multi-agent workflows**, and **computer vision** models.
 
-- 🔭 **Currently working on:** Azure Databricks pipelines, Snowflake warehousing, DBT transformations, and LLM-powered analytics
-- 🛠️ **Tech stack:** Python · PySpark · DBT · Snowflake · Azure · AWS · Apache Spark · SQL · LLMs
-- 🌱 **Learning:** Advanced system design, vector databases, and production ML workflows
-- 📝 **Content:** Sharing projects on [GitHub](https://github.com/Kevin20AP) and [LinkedIn](https://www.linkedin.com/in/kevin-ap11)
-- 💬 **Ask me about:** Data engineering, cloud pipelines, Snowflake, Spark, DBT, data analysis, or AI/ML
-- ⚡ **Fun fact:** I treat every pipeline like a commit tree — small, focused transformations that compound into powerful insights
+- 🎯 **Career goal:** Land a role as an **AI Engineer** building production LLM and ML systems
+- 🔭 **Currently building:** RAG chatbots, LangGraph agents, fine-tuned models, and end-to-end AI pipelines
+- 🛠️ **AI stack:** Python · LangChain · LangGraph · OpenAI · HuggingFace · PyTorch · RAG · Vector DBs · Whisper
+- 🌱 **Learning:** Agentic AI, model fine-tuning, MLOps, and scalable AI system design
+- 💼 **Background:** Data engineering (Azure, Snowflake, Spark) — strong data foundation for AI at scale
+- 💬 **Ask me about:** LLMs, RAG, AI agents, prompt engineering, ML model deployment, or breaking into AI
+- ⚡ **Fun fact:** I believe the best AI engineers understand data first — pipelines feed models, models drive intelligence
 
 ---
 
 ## 🛠️ Skills
 
-### Data Engineering
+### AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI / ML
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Generative AI & Agents
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-00C7B7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-10B981?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Data & MLOps Foundation
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,postgres,mongodb,redis,git,linux,vscode&perline=8" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,postgres,mongodb,git,linux,vscode&perline=9" alt="Skill icons"/>
 </p>
 
 ---
@@ -107,43 +107,31 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 
 ## 🚀 Featured Projects
 
-### Data Engineering
+### 🤖 AI / Machine Learning
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Spotify Azure Data Pipeline](https://github.com/Kevin20AP/data-engineering-projects/tree/main/spotify-azure-databricks) | End-to-end Spotify analytics pipeline on Azure with Databricks and PySpark | Azure · Databricks · PySpark |
-| [Airbnb Analytics Platform](https://github.com/Kevin20AP/data-engineering-projects/tree/main/airbnb-snowflake-dbt) | Airbnb booking analytics with DBT transformations and Snowflake warehousing | DBT · Snowflake · AWS |
-| [Netflix Data Analysis](https://github.com/Kevin20AP/data-engineering-projects/tree/main/netflix-dbt-snowflake) | Netflix content analytics with dimensional modeling and data quality tests | DBT · Snowflake · SQL |
-| [IPL Cricket Analytics](https://github.com/Kevin20AP/data-engineering-projects/tree/main/ipl-apache-spark) | IPL cricket data pipeline processing match and player stats at scale | Apache Spark · Python · Azure |
-| [Tokyo Olympic Azure Pipeline](https://github.com/Kevin20AP/data-engineering-projects/tree/main/tokyo-olympic-azure-data-engineering-project) | Tokyo Olympics data engineering with PySpark transformations and medal analytics | Azure · PySpark · Jupyter |
-| [Azure Spotify Data Factory](https://github.com/Kevin20AP/data-engineering-projects/tree/main/azurespotifyproject) | Azure Data Factory incremental ingestion pipeline for Spotify data | Azure Data Factory · Data Lake · SQL |
-
-> 📁 All data engineering projects: **[data-engineering-projects](https://github.com/Kevin20AP/data-engineering-projects)**
-
-### AI / ML
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [RAG Hybrid Chatbot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/rag-hybrid-chatbot) | RAG chatbot with hybrid search (ChromaDB + BM25) and multi-turn conversation memory | LangChain · OpenAI · ChromaDB · BM25 |
+| [RAG Hybrid Chatbot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/rag-hybrid-chatbot) | RAG chatbot with hybrid search (ChromaDB + BM25) and multi-turn conversation memory | LangChain · OpenAI · ChromaDB |
 | [LangGraph Support Bot](https://github.com/Kevin20AP/ai-ml-projects/tree/main/langgraph-support-bot) | Multi-agent support bot with intent routing and human escalation | LangGraph · LangChain · OpenAI |
+| [Multi-Agent Research System](https://github.com/Kevin20AP/ai-ml-projects/tree/main/multi-agent-research-system) | Researcher, Writer, and Critic agents with automatic revision loop | LangGraph · LangChain · OpenAI |
 | [ReAct Agent](https://github.com/Kevin20AP/ai-ml-projects/tree/main/react-agent) | Tool-using agent with calculator, weather, and Wikipedia via ReAct loop | LangGraph · LangChain · OpenAI |
 | [HuggingFace Fine-Tuning](https://github.com/Kevin20AP/ai-ml-projects/tree/main/huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with before/after comparison | HuggingFace · PyTorch · GPT-2 |
-| [Multi-Agent Research System](https://github.com/Kevin20AP/ai-ml-projects/tree/main/multi-agent-research-system) | Researcher, Writer, and Critic agents with automatic revision loop | LangGraph · LangChain · OpenAI |
-| [Voice AI Assistant](https://github.com/Kevin20AP/ai-ml-projects/tree/main/voice-assistant) | Hands-free assistant with Whisper speech-to-text and gTTS text-to-speech | Whisper · OpenAI · gTTS |
-| [Sensitive Data Detection](https://github.com/Kevin20AP/ai-ml-projects/tree/main/sensitive-data-detection) | ML system to detect sensitive data exposure in images using CNN and OCR | TensorFlow · Flask · Tesseract |
-| [Fake Job Prediction](https://github.com/Kevin20AP/ai-ml-projects/tree/main/fake-job-prediction) | Classify job postings as real or fake using NLP and machine learning | Python · Scikit-learn · Jupyter |
+| [Voice AI Assistant](https://github.com/Kevin20AP/ai-ml-projects/tree/main/voice-assistant) | Hands-free assistant with Whisper STT and gTTS speech output | Whisper · OpenAI · gTTS |
+| [Sensitive Data Detection](https://github.com/Kevin20AP/ai-ml-projects/tree/main/sensitive-data-detection) | CNN + OCR system to detect sensitive data exposure in images | TensorFlow · Flask · Tesseract |
+| [Fake Job Prediction](https://github.com/Kevin20AP/ai-ml-projects/tree/main/fake-job-prediction) | NLP model to classify job postings as real or fake | Scikit-learn · Jupyter |
 
 > 📁 All AI/ML projects: **[ai-ml-projects](https://github.com/Kevin20AP/ai-ml-projects)**
 
-### Software Projects
+### 📊 Data Engineering *(AI Foundation)*
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Python Projects](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/Python_Projects) | Python games — Snake, Turtle Crossing, and arcade projects | Python |
-| [Flask REST API](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/flask-rest-api) | REST API with Flask and SQLite | Python · Flask |
-| [Pong](https://github.com/Kevin20AP/Kevin20AP.github.io/tree/main/pong) | Classic Pong game with Turtle graphics | Python |
+| [Spotify Azure Pipeline](https://github.com/Kevin20AP/data-engineering-projects/tree/main/spotify-azure-databricks) | End-to-end analytics pipeline on Azure Databricks with PySpark | Azure · Databricks · PySpark |
+| [Airbnb Analytics Platform](https://github.com/Kevin20AP/data-engineering-projects/tree/main/airbnb-snowflake-dbt) | DBT + Snowflake analytics with AWS ingestion | DBT · Snowflake · AWS |
+| [Netflix Data Analysis](https://github.com/Kevin20AP/data-engineering-projects/tree/main/netflix-dbt-snowflake) | Dimensional modeling and data quality for content analytics | DBT · Snowflake · SQL |
+| [IPL Cricket Analytics](https://github.com/Kevin20AP/data-engineering-projects/tree/main/ipl-apache-spark) | Large-scale match and player analytics with Apache Spark | Spark · Python · Azure |
 
-> 📁 All software projects: **[Kevin20AP.github.io](https://github.com/Kevin20AP/Kevin20AP.github.io)**
+> 📁 All data engineering projects: **[data-engineering-projects](https://github.com/Kevin20AP/data-engineering-projects)**
 
 ---
 
@@ -166,6 +154,6 @@ I'm **Kevin.AP** — a **Data Engineer**, **Data Analyst**, and **AI/ML Engineer
 
 <br/><br/>
 
-**Thanks for stopping by! Let's build something great together.** ⚡
+**Open to AI Engineer opportunities — let's build the future together.** 🤖
 
 </div>
